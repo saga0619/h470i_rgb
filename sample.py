@@ -1,9 +1,9 @@
-import aorusx570_rgb
+import h470i_rgb
 import time
 from random import randint
 
 
-controller = aorusx570_rgb.AorusRGBController()
+controller = h470i_rgb.AorusRGBController()
 while True:
     time.sleep(1)
     r = randint(0,255)
