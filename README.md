@@ -1,5 +1,9 @@
-# Aorus570-RGB
+H470I-RGB
 
+
+h470i led controller based on aorusx570-rgb
+
+-------------------------------------------------------------
 This is a really barebones interface I cobbled together to allow
 access to setting RGB values on Aorus X570 motherboards. It may
 work on other Aorus or Gigabyte motherboards as well. In this case
