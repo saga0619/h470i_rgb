@@ -1,10 +1,10 @@
 import hid
 
 zone_dict = {
-    "LED_ZONE1"  : (0x20,0x01),
+    "LED_ZONE1" : (0x20,0x01),
     "LED_ZONE2" : (0x21,0x02),
     "LED_ZONE3" : (0x22,0x04),
-    "LED_ZONE4"  : (0x23,0x08),
+    "LED_ZONE4" : (0x23,0x08)
 }
 
 class AorusRGBController:

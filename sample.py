@@ -9,5 +9,5 @@ while True:
     r = randint(0,255)
     g = randint(0,255)
     b = randint(0,255)
-    controller.set_rgb("IO_LED",r,g,b)
+    controller.set_rgb("LED_ZONE1",r,g,b)
 
