@@ -8,7 +8,7 @@ zone_dict = {
 }
 
 class AorusRGBController:
-    def __init__(self, vid=0x048d, pid=0x8297):
+    def __init__(self, vid=0x048d, pid=0x5702):
         assert isinstance(vid, int), "Vendor ID should be an integer"
         assert isinstance(pid, int), "Product ID should be an integer"
         self.vid = vid
